@@ -1,0 +1,9 @@
+# config files
+config/me
+assets/me
+
+# tokens
+tokens.txt
+
+# important
+node_modules

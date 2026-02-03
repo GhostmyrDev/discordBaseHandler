@@ -1,0 +1,7 @@
+{
+    "colors": {
+        "client": "#fffdd0",
+        "errors": "#e01e01",
+        "empty": "#282b30"
+    }
+}
