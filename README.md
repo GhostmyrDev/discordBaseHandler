@@ -31,4 +31,5 @@ ALL dependencies are visible in `package-lock.json`.
 2. If you're not using the `nodemon` dependency, ABSTAIN YOURSELF FROM USING THE `npm run dev`SCRIPT.
 3. If you won't be using music features, or at least any from the `distube` package, just remove it (on your own, will ya...), of course uninstall `distube`.
 4. Yes I plan to update. No ETA.
-5. * (Reading this... fills you with DETERMINATION.)
+
+* (*Reading this... fills you with **DETERMINATION**.*)
